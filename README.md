@@ -70,4 +70,18 @@ The only movie that's in both top 10 is "The Dark Knight", suggesting that highl
 
 ![obraz](https://github.com/user-attachments/assets/bfb58f01-44ec-4935-a84b-299580a347b6)
 
+## Correlation Heatmap
 
+![obraz](https://github.com/user-attachments/assets/7a0028ba-256d-4a2b-8d44-774b92981896)
+
+## IMBD Rating Analysis
+
+Runtime and gross revenue have very minimal impact on the rating. 
+
+![obraz](https://github.com/user-attachments/assets/2e768fd6-5840-4903-aab6-3fe34deace0c)
+
+## Released Year vs Average Rating and Runtime
+
+The average runtime has been steadily increasing. 
+
+![obraz](https://github.com/user-attachments/assets/e9388579-be65-4456-90f8-2fd82df78b50)
