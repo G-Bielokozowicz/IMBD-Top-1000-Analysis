@@ -80,8 +80,17 @@ Runtime and gross revenue have very minimal impact on the rating.
 
 ![obraz](https://github.com/user-attachments/assets/2e768fd6-5840-4903-aab6-3fe34deace0c)
 
-## Released Year vs Average Rating and Runtime
+## Temporal analysis
 
 The average runtime has been steadily increasing. 
 
 ![obraz](https://github.com/user-attachments/assets/e9388579-be65-4456-90f8-2fd82df78b50)
+
+## Actor analysis
+
+Once again, there's not a lot of overlap between top actors by number of movies and revenue. Only Tom Hanks and Matt Damon are in both tops.
+
+
+
+![obraz](https://github.com/user-attachments/assets/9e118f5c-9cdb-4b7d-a592-13e2de142a6a)
+
