@@ -48,7 +48,7 @@ Most movies are barely two hours long.
 
 ## Regression analysis IMDB Ratings/Metacritic score vs Gross Revenue
 
-As IMDB Rating increases, so does the revenue, but as metacritic score increases the revenue decreases slightly
+As IMDB Rating increases, so does the revenue. Metacritic score has very small impact
 ![obraz](https://github.com/user-attachments/assets/cbab1940-48c3-4f81-a9e3-fc86eaaa142f)
 
 
@@ -90,7 +90,11 @@ The average runtime has been steadily increasing.
 
 Once again, there's not a lot of overlap between top actors by number of movies and revenue. Only Tom Hanks and Matt Damon are in both tops.
 
-
-
 ![obraz](https://github.com/user-attachments/assets/9e118f5c-9cdb-4b7d-a592-13e2de142a6a)
+
+## Certificate analysis
+Most movies received U certificate, followed by A and UA. Highest grossing certificate is UA. All of them mean that the movie is rated for everyone.
+
+![obraz](https://github.com/user-attachments/assets/44089e51-0d95-4102-9b78-fcf047518b74)
+
 
